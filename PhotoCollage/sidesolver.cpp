@@ -6,6 +6,7 @@ using namespace std;
 float length;
 float y;
 vector<float> x;
+
 float solve(vector<float> k, float l)
 {
   if (k.size()==1)
