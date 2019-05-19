@@ -103,7 +103,7 @@ void splitChild(BTree* x, int i)
 }
 
 // different name of node again?
-// Well it is my implementation go fuck yourself
+// Well it is my implementation so shut up
 void insertNonFull(BTree* v, int k)
 {
 	int i = v->n - 1;
